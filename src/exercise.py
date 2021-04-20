@@ -4,7 +4,7 @@ def main():
     sumOfNumbers = 0
 
     while True:
-      number = int(input("Give a number: "))
+      number = int(input("Give a number:"))
 
       if(number == 0):
         break
