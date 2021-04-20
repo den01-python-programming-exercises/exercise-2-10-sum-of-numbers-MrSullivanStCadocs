@@ -12,7 +12,7 @@ def main():
       if(number != 0):
         sumOfNumbers = sumOfNumbers + number
       
-    print("Sum of the number: " + str(sumOfNumbers))
+    print("Sum of numbers: " + str(sumOfNumbers))
 
 if __name__ == '__main__':
     main()
